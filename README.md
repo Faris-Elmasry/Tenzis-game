@@ -1,4 +1,5 @@
 # Getting Started with Tenzis Game 
+![Screenshot 2024-08-25 093905](https://github.com/user-attachments/assets/46c43045-105e-49d7-8c5d-6125ab87ce18)
 
  
 ## Available Scripts

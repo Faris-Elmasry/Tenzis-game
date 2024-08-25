@@ -1,4 +1,4 @@
-# Getting Started with Tenzies Game 
+# Getting Started with Tenzis Game 
 
  
 ## Available Scripts
